@@ -1,4 +1,4 @@
-# helpers 
+# Query ArcGIS Server logs by Folder
 
  Things to update after you have downloaded the script. 
 
