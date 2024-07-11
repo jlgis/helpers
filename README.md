@@ -13,3 +13,7 @@
  Enter a folder name from your ArcGIS Server when executing the get_logs function. In this case, my server folder name is Athens. 
 
  Be sure to assign it to a variable to return the dataframe. 
+
+# Extract Map Service Data
+Enter a map service url with the layer id, i.e RestURL/MapServer/0
+Enter a folder directory
