@@ -16,4 +16,5 @@
 
 # Extract Map Service Data
 Enter a map service url with the layer id, i.e RestURL/MapServer/0
+
 Enter a folder directory
