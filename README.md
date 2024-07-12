@@ -18,3 +18,9 @@
 Enter a map service url with the layer id, i.e RestURL/MapServer/0
 
 Enter a folder directory
+
+# Delete Services from Folder
+
+Enter your GIS Connection parameters
+
+Adjust the folder_dir variable
